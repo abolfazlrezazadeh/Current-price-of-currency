@@ -73,7 +73,7 @@ class Home extends StatelessWidget {
             ),
             // body heead container
             Padding(
-              padding: EdgeInsets.fromLTRB(25, 25, 0, 0),
+              padding: EdgeInsets.fromLTRB(25, 24, 0, 0),
               child: Container(
                 height: 35,
                 width: 350,
